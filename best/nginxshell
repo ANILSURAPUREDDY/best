@@ -1,0 +1,1 @@
+sudo nginx -c /home/viky/Desktop/Anil/Angular-7/Test/nginx.conf

@@ -1,0 +1,11 @@
+{
+    "/web":{
+        "target":"http://localhost",
+        "secure": false ,
+        "logLevel": "debug",
+        "pathRewrite": {    
+            "^web": ""
+        },
+        "changeOrigin":true
+    }
+}
